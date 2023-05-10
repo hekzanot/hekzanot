@@ -4,21 +4,22 @@ Mücahit Eren</a></h1>
 
 <br/>
 <div>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
-</a>
+	<a target="_blank" align="center">
+		<img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
+	</a>
 
-- 🔭 I'm currently available for job opportunities.
+	- 🔭 I'm currently available for job opportunities.
 
-- 🎯 I’m currently working on web development technologies.
+	- 🎯 I’m currently working on web development technologies.
 
-- 🤝 I’m available for freelancing.
+	- 🤝 I’m available for freelancing.
 
-- 👨🏽‍💻 I’m currently learning Next.js and Spring Framework
+	- 👨🏽‍💻 I’m currently learning Next.js and Spring Framework
 
-- 📫 How to reach me **merenozcan.dev@gmail.com**
+	- 📫 How to reach me **merenozcan.dev@gmail.com**
 
-- 📄 Know about my experiences 
+	- 📄 Know about my experiences 
+	
 <a href="https://hekzanot-portfolio.vercel.app/about" target="blank"><strong>Resume</strong></a>
 </div>
 <br/>
@@ -65,4 +66,3 @@ Mücahit Eren</a></h1>
 </div>
 
 </p>
-
