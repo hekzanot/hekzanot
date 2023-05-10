@@ -34,7 +34,6 @@ Mücahit Eren</a></h1>
 
 ---
 
-<br/>
 <h3 align="center">Connect with me ⚡️</h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
