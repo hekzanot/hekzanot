@@ -21,7 +21,7 @@ Mücahit Eren</a></h1>
 	<li>👨🏽‍💻 I’m currently learning Next.js and Spring Framework</li>
 </p>
 <p>
-	<li>📫 How to reach me <a href="mailto:merenozcan.dev@gmail.com>merenozcan.dev@gmail.com</a></li>
+	<li>📫 How to reach me <a href="mailto:merenozcan.dev@gmail.com">merenozcan.dev@gmail.com</a></li>
 </p>
 <p>
 	<li>📄 Know about my experiences <a href="https://hekzanot-portfolio.vercel.app/about" 					target="blank"><strong>Resume</strong></a></li>
