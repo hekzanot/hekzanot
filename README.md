@@ -9,22 +9,22 @@ Mücahit Eren</a></h1>
 	</a>
 <br/>
 <p>
-	- 🔭 I'm currently available for job opportunities.
+	<li>🔭 I'm currently available for job opportunities. </li>
 </p>
 <p>
-	- 🎯 I’m currently working on web development technologies.
+	<li>🎯 I’m currently working on web development technologies.</li>
 </p>
 <p>
-	- 🤝 I’m available for freelancing.
+	<li>🤝 I’m available for freelancing.</li>
 </p>
 <p>
-	- 👨🏽‍💻 I’m currently learning Next.js and Spring Framework
+	<li>👨🏽‍💻 I’m currently learning Next.js and Spring Framework</li>
 </p>
 <p>
-	- 📫 How to reach me <strong>merenozcan.dev@gmail.com</strong>
+	<li>📫 How to reach me <strong>merenozcan.dev@gmail.com</strong></li>
 </p>
 <p>
-	- 📄 Know about my experiences <a href="https://hekzanot-portfolio.vercel.app/about" target="blank"><strong>Resume</strong></a>
+	<li>📄 Know about my experiences <a href="https://hekzanot-portfolio.vercel.app/about" 					target="blank"><strong>Resume</strong></a></li>
 </p>
 </div>
 <br/>
