@@ -49,7 +49,7 @@ Mücahit Eren</a></h1>
   </div>
 	    <br>
 	<div>
-		<h3><img src="./img/code.gif" style="padd-top:60px" width=20/> Frontend:</h3>
+		<h3><img src="./code.gif" style="padd-top:60px" width=20/> Frontend:</h3>
 			<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
 			<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
 			<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SASS"></a>
@@ -63,7 +63,7 @@ Mücahit Eren</a></h1>
 	</div>
 	  <br>
 <div>
-    <h3><img src="./img/code.gif" style="padd-top:60px" width=20/> 👨‍💻 Backend:</h3>
+    <h3><img src="./code.gif" style="padd-top:60px" width=20/> Backend:</h3>
     <a href="https://"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="GITHUB"></a>
     <a href="https://"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
