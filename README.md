@@ -18,10 +18,8 @@ Mücahit Eren</a></h1>
 - 📫 How to reach me **merenozcan.dev@gmail.com**
 
 - 📄 Know about my experiences <a href="https://hekzanot-portfolio.vercel.app/about" target="blank"><strong>Resume</strong></a>
-
 <br/>
 <br/>
-
 <h3 align="center">Connect with me ⚡️</h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
