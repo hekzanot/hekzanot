@@ -66,7 +66,7 @@ Mücahit Eren</a></h1>
 	  <br>
 <div>
     <h3>👨‍💻 Backend:</h3>
-    <a href="https://"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="GO"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GO"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
     <a href="https://"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL"></a>
