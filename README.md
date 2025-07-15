@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://hekzanot-portfolio.vercel.app/" target="blank">
 Mücahit Eren</a></h1>
-<h3 align="center"><strong>Jr. Software Engineer</strong></h3>
+<h3 align="center"><strong>Software Engineer</strong></h3>
 
 <br/>
 <div>
