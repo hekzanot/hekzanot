@@ -18,7 +18,7 @@ Mücahit Eren</a></h1>
 	<li>🤝 I’m available for freelancing.</li>
 </p>
 <p>
-	<li>👨🏽‍💻 I’m currently learning VueJS and NodeJS</li>
+	<li>👨🏽‍💻 I’m currently learning NextJS and NodeJS</li>
 </p>
 <p>
 	<li>📫 How to reach me <a href="mailto:merenozcan.dev@gmail.com"><strong>merenozcan.dev@gmail.com</strong></a></li>
